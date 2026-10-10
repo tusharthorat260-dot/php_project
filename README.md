@@ -21,7 +21,7 @@ Web applications almost always need to collect user data and store it permanentl
 
 ## 🏗️ Architecture Diagram
 
-![Form Architectural diagram]()
+![Form Architectural diagram](https://github.com/tusharthorat260-dot/php_project/blob/b3f2a6eb41608a10aa2a0cb2c30f1865ea10a56d/Architectural%20digram.jpeg)
 
 **Flow:**
 1. User opens the signup form in the browser (EC2 public IP).
