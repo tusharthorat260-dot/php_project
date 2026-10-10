@@ -1,6 +1,5 @@
 # PHP Signup Form with MariaDB on AWS
 
-A simple 3-tier web application where a user fills a signup form, PHP processes the data, and MariaDB stores it. Hosted on an AWS EC2 instance.
 
 ## 📌 Introduction
 
